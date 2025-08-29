@@ -1,5 +1,5 @@
 
-# Elevate_Lab_Project
+# Technohack Solution Project
 ## Movie Recommender System
 
 - A Recommender System gives you suggestions for things you may like, such as products, movies, or songs.
@@ -67,4 +67,5 @@ Make sure you have [Streamlit](https://streamlit.io/) installed. If not, you can
 ```bash
 pip install streamlit
 streamlit run app.py
+
 
